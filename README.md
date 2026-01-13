@@ -21,7 +21,7 @@
 ---
 
 ## 🚀 项目链接
-- [**在线试玩**](https://salzfisch.github.io/Tic-Tac-Toe/)
+- [**在线试玩**](https://salzfisch.github.io/Tic-Tac-Toe-JS/)
 
 ---
 
